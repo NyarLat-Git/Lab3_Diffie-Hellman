@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21BFEACC-8E2E-41A8-87D0-40C09506B528}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFEACC-8E2E-41A8-87D0-40C09506B528}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFEACC-8E2E-41A8-87D0-40C09506B528}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pc\\desktop\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\cryptoprotocols\\lab3_diffie-hellman\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFEACC-8E2E-41A8-87D0-40C09506B528}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21BFEACC-8E2E-41A8-87D0-40C09506B528}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\pc\\desktop\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\cryptoprotocols\\lab3_diffie-hellman\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21BFEACC-8E2E-41A8-87D0-40C09506B528}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +50,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\WindowsFormsApp1\\Form1.Designer.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:27:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:09:40.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\8 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\CryptoProtocols\\Lab3_Diffie-Hellman\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
