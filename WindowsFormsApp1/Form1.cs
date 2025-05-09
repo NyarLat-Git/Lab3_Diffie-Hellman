@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Numerics;
+using static WindowsFormsApp1.Utils;
 
 
 namespace WindowsFormsApp1
